@@ -5,7 +5,7 @@
 - **Disciplina**: Sistemas operacionais
 - **Semestre letivo**: 2025.2
 - **Avaliação**: 4a atividade avaliativa do bimestre
-- **Time de desenvolvimento**: A solução do problema pode ser feita em grupo, com ou sem ajuda de assistente, mas a  **entrega deve ser individual via fork desse repositório**.
+- **Time de desenvolvimento**: Pedro Ricardo e Eduardo Medeiros (A solução do problema pode ser feita em grupo, com ou sem ajuda de assistente, mas a  **entrega deve ser individual via fork desse repositório**.)
 - **Deadline**: 09/02/2026 as 12h com apresentação as 13h
 
 ## Descrição do Problema
